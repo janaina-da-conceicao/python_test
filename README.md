@@ -1,2 +1,2 @@
-# Python_test
+# python_test
 Exercícios Python - Sprint 7 TripleTen
